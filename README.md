@@ -27,8 +27,8 @@ In this project,
  | Bed |                                                                                        | Int |
  | Path |                                                                                       | Int |
  | living |                                                                                     | Int |
- | StreetWidth |                                                                                | Int |
- | oldness |                                                                                    | Int |
+ | Street_width |                                                                               | Int |
+ | House_a |                                                                                    | Int |
  | views |                                                                                      | Int |
 
 
