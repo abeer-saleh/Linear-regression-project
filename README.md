@@ -22,13 +22,13 @@ In this project,
  |-------|--------------------------------------------------------------------------------------|--------|
  |                                                                                                       |
  | Area |                                                                                       | Int |
- | Price |                                                                                      | Int |
+ | Price |  Price that the house sold at                                                                                    | Int |
  | Direction |                                                                                  | Int | 
  | Bed |                                                                                        | Int |
  | Path |                                                                                       | Int |
  | living |                                                                                     | Int |
  | Street_width |                                                                               | Int |
- | House_a |                                                                                    | Int |
+ | House_age |                                                                                    | Int |
  | views |                                                                                      | Int |
 
 
