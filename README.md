@@ -22,7 +22,7 @@ In this project,
  |-------|--------------------------------------------------------------------------------------|--------|
  |                                                                                                       |
  | Area |                                                                                       | Int |
- | Price |  Price that the house sold at                                                                                    | Int |
+ | Price |                                                                                     | Int |
  | Direction |                                                                                  | Int | 
  | Bed |                                                                                        | Int |
  | Path |                                                                                       | Int |
