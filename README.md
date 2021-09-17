@@ -42,12 +42,16 @@ The scope of this project was the villas for sale in the areas of Riyadh only, w
   * Python
   * Jupyter Notebook
   * SQL
+  * SQLite
   
 * Libraries
 
   * Pandas
-  * Numpy
+  * NumPy
   * Seaborn
   * Matplotlib
-  * BeautifulSoup
+  * Request
+  * sqlalchemy
+  * sklearn
+  * bs4
   
