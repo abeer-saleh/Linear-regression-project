@@ -2,7 +2,7 @@
 # Project 02: Web Scraping and Linear Regression Project
 
 
-![aqar-logo](https://user-images.githubusercontent.com/79164554/133847472-c4daa045-3002-4d11-8875-6f90e2102f12.png)
+
 
 #### Name: Abeer Alruwayti, Ruba Alnashwan
 #### E-mail: Abeeralruwaitea@gmail.com, Ruba.Alnashwan@gmail.com
