@@ -1,5 +1,5 @@
 
-# Project 02: Web Scraping 
+# Project 02: Web Scraping and Linear Regression Project
 
 #### Name: Abeer Alruwayti, Ruba Alnashwan
 #### E-mail: Abeeralruwaitea@gmail.com, Ruba.Alnashwan@gmail.com
@@ -50,7 +50,7 @@ The scope of this project was the villas for sale in the areas of Riyadh only, w
   * NumPy
   * Seaborn
   * Matplotlib
-  * Request
+  * Requests
   * sqlalchemy
   * sklearn
   * bs4
