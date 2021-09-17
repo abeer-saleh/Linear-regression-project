@@ -32,7 +32,8 @@ In this project,We used data for villas offered for sale in the city of Riyadh t
 
   ### Scope
   
-The scope of this project was the villas for sale in the areas of Riyadh only, whether old or new villas The dataset contains 38,566 rows × 9 columns
+The scope of this project was the villas for sale in the areas of Riyadh, whether old or new villas.
+The dataset contains 38,566 rows × 9 columns.
  
 
 ## Tools
