@@ -24,8 +24,8 @@ In this project,We used data for villas offered for sale in the city of Riyadh t
  | Bed |  Number of bedrooms in the villa	                                                                                      | Int |
  | Path |  Number of pathrooms in the villa	                                                                                     | Int |
  | living |  The number of living rooms in the villa	                                                                                   | Int |
- | Street_width |  Width of the street on which the villa is located	                                                                             | Int |
- | House_age |   New or used villa and how many years of use	                                                                                 | Int |
+ | Street width |  Width of the street on which the villa is located	                                                                             | Int |
+ | House age |   New or used villa and how many years of use	                                                                                 | Int |
  | views |   The number of users who viewed the ad of the villa	                                                                                   | Int |
 
 
