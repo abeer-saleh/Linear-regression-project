@@ -20,7 +20,7 @@ In this project,We used data for villas offered for sale in the city of Riyadh t
  |                                                                                                       |
  | Area |   The area of the villa land in square meters	                                  | Int |
  | Price |  villa price	                                                                      | Int |
- | Direction |  The location of the villa in the city of Riyadh (North, South, West, East, Central)	                                                                                | Int | 
+ | Direction | The direction of the facade of the house                                                                               | Int | 
  | Bed |  Number of bedrooms in the villa	                                                                                      | Int |
  | Path |  Number of pathrooms in the villa	                                                                                     | Int |
  | living |  The number of living rooms in the villa	                                                                                   | Int |
@@ -44,8 +44,7 @@ The dataset contains 38,566 rows × 9 columns.
 
   * Python
   * Jupyter Notebook
-  * SQL
-  * SQLite
+  
   
 * Libraries
 
@@ -54,7 +53,7 @@ The dataset contains 38,566 rows × 9 columns.
   * Seaborn
   * Matplotlib
   * Requests
-  * sqlalchemy
   * sklearn
-  * bs4
+  * BeautifulSoup
+  
   
